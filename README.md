@@ -1,2 +1,0 @@
-# fetchfun
-Created with CodeSandbox
